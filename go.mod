@@ -1,3 +1,3 @@
-module github.com/AnasMaruf/go-say-hello.git
+module github.com/AnasMaruf/go-say-hello
 
 go 1.24.0
